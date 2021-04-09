@@ -1,0 +1,3 @@
+Key=start Value=08:00
+
+Key=stop Value=19:00
